@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nucle0tides/nucle0tides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![pius](https://github.com/nucle0tides/nucle0tides/blob/master/IMG_20200721_201105_688.jpg)
