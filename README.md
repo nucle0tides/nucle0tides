@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![pius](https://github.com/nucle0tides/nucle0tides/blob/master/IMG_20200721_201105_688.jpg)
+![pius](https://user-images.githubusercontent.com/8785339/137811112-9b2dec5b-924b-4c13-96bd-74b10fcbdb03.jpeg)
