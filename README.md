@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 ![IMAGE417](https://user-images.githubusercontent.com/8785339/175363944-55c7dd9f-9a71-406a-86b0-1aaade09ac05.gif)
 ![IMAGE667](https://user-images.githubusercontent.com/8785339/175363946-8166dbd5-31dd-4237-bfed-f5be31d98e4b.gif)
 <img width="239px" alt="Screen Shot 2022-06-23 at 12 56 47 PM" src="https://user-images.githubusercontent.com/8785339/175363895-ceaffd2b-2db1-4ea3-96ce-b73fc722fccb.png">
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/nucle0tides"
+  width="600"
+  height="300"
+/>
+</a>
