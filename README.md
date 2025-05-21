@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![IMAGE43](https://user-images.githubusercontent.com/8785339/175363941-c11c4cd0-6955-4405-a440-d8f64f275524.gif)
 ![IMAGE122](https://user-images.githubusercontent.com/8785339/175363943-a48eb7b2-adac-4117-90cb-eeae415cf924.gif)
 ![IMAGE417](https://user-images.githubusercontent.com/8785339/175363944-55c7dd9f-9a71-406a-86b0-1aaade09ac05.gif)
-![IMAGE66![IMG_2123](https://github.com/user-attachments/assets/b6464fb8-cd8c-4c9c-9df7-341bc7f91506)
-7](https://user-images.githubusercontent.com/8785339/175363946-8166dbd5-31dd-4237-bfed-f5be31d98e4b.gif)
+![IMG_2123](https://github.com/user-attachments/assets/d2007b8c-c925-4493-8daa-7d8e8acf6250)
+
 <img width="239px" alt="Screen Shot 2022-06-23 at 12 56 47 PM" src="https://user-images.githubusercontent.com/8785339/175363895-ceaffd2b-2db1-4ea3-96ce-b73fc722fccb.png">
 
 <a href="https://github.com/devxb/gitanimals">
